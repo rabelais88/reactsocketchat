@@ -1,0 +1,13 @@
+.form{
+  background-color:lightgrey;
+  padding:20px;
+}
+.log{
+  border-bottom:solid 1px black;
+}
+.name{
+  font-weight:700;
+}
+.msg{
+  
+}
